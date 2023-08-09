@@ -1,7 +1,7 @@
-### Hi there I'm GladysSiamanda👋
+ ### Hi there I'm GladysSiamanda👋
 
 <div align="center">
-  <img src="https://giphy.com/gifs/YourTechConnect-tech-technology-your-connect-p1Z9gCY6vtaTOzjAhk" width="600" height="300"/>
+  <img src = "https://giphy.com/gifs/YourTechConnect-tech-technology-your-connect-p1Z9gCY6vtaTOzjAhk" width="600" height="300"/>
   
 </div>
 <!--
