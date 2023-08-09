@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there I'm Gladys Siamanda👋
 
+<div align="center">
+<img src="https://giphy.com/gifs/YourTechConnect-tech-technology-your-connect-p1Z9gCY6vtaTOzjAhk" width="600" height="300"/>
+</div>
 <!--
 **GladysSiamanda/GladysSiamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
