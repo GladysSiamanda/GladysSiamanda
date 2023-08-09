@@ -7,10 +7,13 @@
 **GladysSiamanda/GladysSiamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  I am open to:
  * any collaboration work.
- * Monitoring and Evaluation jobs.
- 
 
-***Languages
+ #skills
+ * Monitoring and Evaluation
+ * Data Analysis
+ * Research
+ 
+###Languages
 ![R](https://img.shields.io/badge/fdae6b?style=for-the-badge&logo=r&logoColor=orange)
 
 
